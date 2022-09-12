@@ -14,3 +14,9 @@ elif (not conditional):
 
 else:
     print('this happens if nothing else')
+
+
+age = 17
+movie = 'r'
+if (age < 17 and age > 10 and movie == 'r'):
+    print('age below 17')
